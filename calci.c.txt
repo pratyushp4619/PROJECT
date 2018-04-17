@@ -1,0 +1,33 @@
+
+# include <stdio.h>
+
+int main() {
+
+    char operator;
+    double firstNumber,secondNumber;
+
+    printf("Enter an operator (+, -, *,): ");
+    scanf("%c", &operator);
+
+    printf("Enter two operands: ");
+    scanf("%lf %lf",&firstNumber, &secondNumber);
+
+    switch(operator)
+    {
+        case '+':
+            To be done by Saurabh
+
+        case '-':
+            To be done by Rishabh
+
+        case '*':
+            To be done by Sajal
+
+        case '/':
+            To be done by Rachit
+        default:
+            By Shivam
+    }
+    
+    return 0;
+}
