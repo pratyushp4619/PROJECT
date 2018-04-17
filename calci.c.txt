@@ -18,7 +18,8 @@ int main() {
             To be done by Saurabh
 
         case '-':
-            To be done by Rishabh
+            printf("%.1lf - %.1lf = %.1lf",firstNumber, secondNumber, firstNumber - secondNumber);
+            break; //added by Rishabh Singh
 
         case '*':
             To be done by Sajal
