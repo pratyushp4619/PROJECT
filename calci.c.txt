@@ -21,7 +21,8 @@ int main() {
             To be done by Rishabh
 
         case '*':
-            To be done by Sajal
+            int a,b,c;
+c=a*b;//added by sajal sood
 
         case '/':
             To be done by Rachit
