@@ -15,7 +15,14 @@ int main() {
     switch(operator)
     {
         case '+':
-            To be done by Saurabh
+            sum();					//changes done by saurabh
+	    {
+	    	int a ,b;
+		cout<<"Enter two numbers";
+		cin>>a>>b;
+		cout<<"sum is "<<a+b;
+
+	    }
 
         case '-':
             To be done by Rishabh
